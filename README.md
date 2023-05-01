@@ -62,7 +62,7 @@ Ein umfangreiches Tutorial ist Teil der Anwendung.
 ## Beteiligung
 Um eigene Objekte zu verwenden, können im Ordner „Assets > Resources > Museumsobjects“ PNG-Dateien von Exponaten hochgeladen werden. Hierbei ist wichtig zu beachten, dass der Dateiname der verwendeten Bilder eine Zahl ist und alle Bilder fortlaufend ab „0“ (Null) in aufsteigender Reihenfolge benannt werden müssen. Die Information zum Objekt können unter „Assets > Resources > JsonObjects“ in der JSON-Datei ergänzt werden.
 
-Mögliches Future Work:
+Mögliche Future Work:
 * Netzwerkkommunikation über einen eigenen Server unabhängig von Agora
 * Management für mehr als zwei Museen gleichzeitig
 * Ergänzen der Beschreibungen in mehreren Sprachen
