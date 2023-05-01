@@ -1,0 +1,252 @@
+{
+    "museumobject":[
+        {
+            "id": "0",
+            "description": "Spielekonsole Atari<br><br><size=30>Atari Home Pong ist eine stationäre Spielkonsole, die von Atari ab 1975 hergestellt und verkauft wurde.</s>"
+        },
+        {
+            "id": "1",
+            "description": "Walrosszahn<br><br><size=30>Walfänger verwendeten Walknochen oder -zähne und auch Walrosszähne für ihre künstlerischen Arbeiten. </s>"
+        },
+        {
+            "id": "2",
+            "description": "Überdruck-Dampfturbine<br><br><size=30>Unter einer Überdruckturbine versteht man eine Turbine, bei welcher vor dem Laufrad einen höheren statischen Druck aufweist als dahinter. </s>"
+        },
+        {
+            "id": "3",
+            "description": "Gleichdruck Dampfturbine<br><br><size=30>Der schwedische Ingenieur Carl G. P. de Laval konstruierte diese Turbine, die eine der ersten praktisch verwendbaren Gleichdruckturbinen darstellt</s>"
+        },
+        {
+            "id": "4",
+            "description": "Gameboy<br><br><size=30>1989 erschien der erste Game Boy auf dem Markt, im Laufe der darauf folgenden Jahre wurden hunderte verschiedene Spiele hergestellt.</s>"},
+        {
+            "id": "5",
+            "description": "Durchdringungsmodell Vielflächer<br><br><size=30>Mathematisches Modell</s>"
+        },
+        {
+            "id": "6",
+            "description": "Askos, schlauchförmig mit Bandhenkel<br><br><size=30>Ein Askos (deutsch Schlauch) ist ein flaches, bauchiges Gefäß aus antiker Zeit mit einem engen Ausguss, an dem der Henkel auf dem Rücken angesetzt ist</s>"
+        },
+        {
+            "id": "7",
+            "description": "Kirchenglocke in Gussform<br><br><size=30>Das Verfahren, Glocken zu machen, wird schon im 9. Jahrhundert von Theopilus beschrieben und hat sich bis heute nur wenig geändert. </s>"
+        },
+        {
+            "id": "8",
+            "description": "Erster Dreirad-Motorwagen von Carl Benz<br><br><size=30>Im Jahr 1886 meldete der Mannheimer Ingenieur Carl Benz (1844-1929) ein Patent für ein 'Fahrzeug mit Gasmotor' an. Es war das erste Auto mit Gasmotor.</s>"
+        },
+        {
+            "id": "9",
+            "description": "COMMODORE CBM 2032<br><br><size=30>Er ist der weltweit zweite für Privathaushalte erschwingliche und in Serie hergestellte persönliche Computer.</s>"
+        },
+        {
+            "id": "10",
+            "description": "Sextant von Brander & Höschel<br><br><size=30> Zur Messung der Winkel zwischen Landmarken, Turmspitzen und Himmelsobjekten genügen oft Instrumente mit einem viertel, sechstel oder achtel Messkreis. </s>"
+        },
+        {
+            "id": "11",
+            "description": "Lekythos der Gnatia Gattung<br><br><size=30>Griechische Keramik</s>"
+        },
+        {
+            "id": "12",
+            "description": "Sternfinder von Georg Friedrich Brander<br><br><size=30> Das Instrument war dazu da, Himmelskörper zu finden und das Fernrohr darauf auszurichten.</s>"
+        },
+        {
+            "id": "13",
+            "description": "Durchdringungsmodell Vielflächer<br><br><size=30>Mathematisches Modell</s>"
+        },
+        {
+            "id": "14",
+            "description": "Astrolabium von Heinrich Höing<br><br><size=30>Das Astrolabium ist eine Kombination aus drehbarer Sternkarte, Visierinstrument zur Winkelmessung und astronomischem Rechenschieber.</s>"
+        },
+        {
+            "id": "15",
+            "description": "Taschen-Chiffriergerät PCCM-4000<br><br><size=30>Eine elektromechanische Ver- und Entschlüsselungsmaschine im Taschenformat.</s>"
+        },
+        {
+            "id": "16",
+            "description": "Exzenterpresse<br><br><size=30>Presse für Feuerfeststeine.</s>"
+        },
+        {
+            "id": "17",
+            "description": "Altaegyptischer Seilspanner, Gipsabguss<br><br><size=30> Altägyptischer Seilspanner in Form eines Feldmessers: Dieser hält das Messseil als Zeichen seines Berufes in den Händen. </s>"
+        },
+        {
+            "id": "18",
+            "description": "Stereosko<br><br><size=30>Ein Vorläufer der modernen VR-Brille</s>"
+        },
+        {
+            "id": "19",
+            "description": "Verstellbarer Pantograph<br><br><size=30></s>(deutsch Allesschreiber) Das Gerät ist ein mechanisches Präzisionsinstrument für das Übertragen von Zeichnungen im gleichen, größeren oder kleineren Maßstab. "
+        },
+        {
+            "id": "20",
+            "description": "Binsenboot, Modell<br><br><size=30>Die Uru, eine ethnische Gruppe Indigener in der südöstlichen Region des Titicaca-Sees, benutzen solche Boote, Balsa genannt, zum Fischfang. </s>"
+        },
+        {
+            "id": "21",
+            "description": "Notebook Toshiba T1000<br><br><size=30>Zeitweise der weltkleinste 'PC-Kompatible'. Einführung:1984</s>"
+        },
+        {
+            "id": "22",
+            "description": "Kleinbildkamera Sico<br><br><size=30>Die Sico ist eine der ersten Kleinbildkameras, noch vor Erscheinen der Leica 1925. Einführung:1925</s>"
+        },
+        {
+            "id": "23",
+            "description": "Ornamentgussform<br><br><size=30>Diese Gussform wurde für Orgelornamente genutzt.</s>"
+        },
+        {
+            "id": "24",
+            "description": "Tischrechner Busicom 141-PF<br><br><size=30>Der erste handliche Taschenrechner</s>"
+        },
+        {
+            "id": "25",
+            "description": "Nocturnal<br><br><size=30>Ein mittelalterliches Gerät zur Ermittlung der Nachtstunden anhand der Stellung der Sterne. </s>"
+        },
+        {
+            "id": "26",
+            "description": "Einfaden Elektrometer<br><br><size=30>Spannungsmesser, wird durch ein Mikroskop abgelesen.</s>"
+        },
+        {
+            "id": "27",
+            "description": "Herzmodell<br><br><size=30>Anatmisches Herzmodell aus Gips.</s>"
+        },
+        {
+            "id": "28",
+            "description": "Normal-Segelapparat<br><br><size=30>Erster fliegender Gleiter von Otto Lilienthal (1848-1896). </s>"
+        },
+        {
+            "id": "29",
+            "description": "Durchdringungsmodell Vielflächer<br><br><size=30>Mathematisches Modell</s>"
+        },
+        {
+            "id": "30",
+            "description": "Fischteller, Apulisch<br><br><size=30>Fischteller sind eine Sonderform antiker, im rotfigurigen Stil bemalter Teller.</s>"
+        },
+        {
+            "id": "31",
+            "description": "Crambler Telefon Telta<br><br><size=30> Dieses Telefon der russischen Firma Telta wurde in der ehemaligen DDR genutzt, um vertrauliche Gespräche zu führen.</s>"
+        },
+        {
+            "id": "32",
+            "description": "Automatenfigur 'Predigender Mönch'<br><br><size=30>Diese sehr frühe Automatenfigur, zu der nur wenige vergleichbare Stücke bekannt sind, zeigt eine Vielzahl von Einzelbewegungen.</s>"
+        },
+        {
+            "id": "33",
+            "description": "Mondfahrzeug (Lunar Rover)<br><br><size=30>Die Apollo-Astronauten unternahmen während der Apollo-Missionen 15, 16 und 17 Exkursionen mit den Lunar Roving Vehicles.</s>"
+        },
+        {
+            "id": "34",
+            "description": "Kine Messter Kamera<br><br><size=30>Kamera aus dem Jahre 1900 mit wechselbaren Metallkassetten.</s>"
+        },
+        {
+            "id": "35",
+            "description": "Rollfilmkamera<br><br><size=30>Als Rollfilmkamera bezeichnet man einen Fotoapparat, der Rollfilm als Aufnahmematerial verwendet; sie lösten die Plattenkameras ab.</s>"
+        },
+        {
+            "id": "36",
+            "description": "Enigma (Maschine)<br><br><size=30>Eine Chiffriermaschine, die im Zweiten Weltkrieg zur Verschlüsselung des Nachrichtenverkehrs der Wehrmacht verwendet wurde. </s>"
+        },
+        {
+            "id": "37",
+            "description": "Sportprothese von Markus Rehm<br><br><size=30>Beinprothese eines Weitspringers.</s>"
+        }, {
+            "id": "38",
+            "description": "Beil, Neolithikum<br><br><size=30>Das Beil stammt aus der Jungsteinzeit (5.500 - 2.200 v.Chr.), dem sogenannten Neolithikum. Überliefert ist nur ein Fragment."
+        },
+        {
+            "id": "39",
+            "description": "Bierbecher, 2. Hälfte 15. Jahrhundert<br><br><size=30>Trinkbecher mit einem Vierpassrand waren im Mittelalter beliebt. "
+            },
+        {
+            "id": "40",
+            "description": "Birnenhelm, Ende 16. Jh.<br><br><size=30>Diese Art von Helm wurde hauptsächlich von Schützen getragen, für die ein Visier unnötig und unpraktisch wäre. "
+        },
+	{
+            "id": "41",
+            "description": "Geschlossener Helm, 2. Hälfte 15. Jh.<br><br><size=30>Visierhelm W1922 Germanisches Nationalmuseum</s>"
+        },
+        {
+            "id": "42",
+            "description": "Geschützmodell, um 1600<br><br><size=30>Vermutlich diente das Modell als hochwertiges Sammlerstück in einer fürstlichen Kunstkammer."
+            },
+        {
+            "id": "43",
+            "description": "Goethe-Büste, 1820<br><br><size=30>Unter den zahlreichen Goethe-Bildnissen und Denkmälern erlangte die Büste von Christian Daniel Rauch eine dauerhafte Wertschätzung."
+
+        },
+        {
+            "id": "44",
+            "description": "Hobel, 1808<br><br><size=30>Hobel sind Werkzeuge zur Bearbeitung von Holzoberflächen. Dieser erinnert in seiner Form an einen Schiffsrumpf"
+            },
+        {
+            "id": "45",
+            "description": "Klappervogel, Bronzezeit<br><br><size=30>Bei dieser handgroßen Vogelfigur handelt es sich um eine Rassel, in deren Innerem sich kleine Steinchen verbergen."
+
+        },
+	    {
+            "id": "46",
+            "description": "Kruseler Puppe<br><br><size=30>Ihren Namen haben die Kruseler Puppen von einer speziellen Damen-Haube."
+            },
+        {
+            "id": "47",
+            "description": "Madonnenrelief, Ende 15. Jh.<br><br><size=30>Diese Tontafel aus dem 15. Jahrhundert ist mehr als Klosterkunst aus Westfalen"
+            },
+        {
+            "id": "48",
+            "description": "Memento Mori, um 1720/25<br><br><size=30>Der Totenschädel steht symbolisch für die Vergänglichkeit allen Lebens."
+            },
+        {
+            "id": "49",
+            "description": "Naturabguss einer Eidechse, um 1540/50<br><br><size=30>Die getreue Nachbildung der Natur war ein wichtiges Ziel der Kunst in der Frühen Neuzeit."
+            },
+        {
+            "id": "50",
+            "description": "Nürnberger Tonapostel, um 1420<br><br><size=30>Die Tonfigur gehört zu einer Gruppe von neun Aposteln, von denen sich sechs im Germanischen Nationalmuseum befinden:"
+            },
+	{
+            "id": "51",
+            "description": "Perkussionsbündelrevolver, Mitte 19. Jh.<br><br><size=30>Dieser Revolver hat nur einen Abzug, aber sechs Läufe für Kugeln. Mit jedem Schuss dreht sich das Bündel."
+            },
+        {
+            "id": "52",
+            "description": "Pilgerflasche, 5./6. Jh.<br><br><size=30>Keramikgefäß, Datierung: Spätantike; „koptisch“ (5./6. Jh.) Fundort: Ahmim-Panopolis"
+            },
+        {
+            "id": "53",
+            "description": "Pilgerflasche, 5./6. Jh.<br><br><size=30>Keramikgefäß, Datierung: Spätantike; „koptisch“ (5./6. Jh.) Fundort: Ahmim-Panopolis"
+        },
+        {
+            "id": "54",
+            "description": "Rohrmirliton, um1800<br><br><size=30>Rohrmirliton Sammlung Musikinstrumente Herstellungsort: Deutschland Herstellungsdatum: um 1800 "
+            },
+        {
+            "id": "55",
+            "description": "Schöpfkelle, Neolithikum<br><br><size=30>Die aus Holz gefertigte Schöpfkelle stammt aus Robenhausen in der Schweiz."
+        },
+	{
+            "id": "56",
+            "description": "Sonnenuhr, 1511<br><br><size=30>Klappsonnenuhren haben den großen Vorteil, dass sie tragbar und daher für die Reise geeignet sind. "
+            },
+        {
+            "id": "57",
+            "description": "Sonnenuhr, spätes 16. Jahrhundert<br><br><size=30>Die Klappsonnenuhr aus Messing wird dem Nachlass des berühmten Astronomen Johannes Regiomontanus zugeschrieben"
+        },
+        {
+            "id": "58",
+            "description": "Souvenir-Muschel, 1895<br><br><size=30>Diese Souvenir-Muschel erinnert an die Eröffnung des Nord-Ostsee-Kanals 1895. Sie steht aber auch für ein umstrittenes Bauprojekt."
+        },
+        {
+            "id": "59",
+            "description": "Spielzeug-Pudel, um 1800<br><br><size=30>Dieser Pudel aus Holz entstand vermutlich um 1800 in Gröden / Südtirol. "
+        },
+        {
+            "id": "60",
+            "description": "Steinschlosspistole, 18. Jh.<br><br><size=30>Über diese Pistole gibt es aktuell kaum gesicherte Informationen. Es könnte sich über eine Kampf- oder Duellwaffe handeln"
+        },
+	    {
+            "id": "61",
+            "description": "Stierfigur, Hallstattzeit<br><br><size=30>Diese Stierfigur wurde in Hallstatt gefunden, einem Ort im Salzkammergut in Oberösterreich. "
+        }
+    ]
+}

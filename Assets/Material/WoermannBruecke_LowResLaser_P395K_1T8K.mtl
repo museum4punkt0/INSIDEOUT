@@ -1,0 +1,13 @@
+#
+# Wavefront material file
+# Created in RealityCapture
+# Engine version v1.2.0.16813
+#
+
+newmtl WoermannBruecke_LowResLaser_P395K_1T8K
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd WoermannBruecke_LowResLaser_P395K_1T8K_u0_v0.jpeg

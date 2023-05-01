@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wrong1
+  - Right1
+  - Wrong2
+  - Right2
+  - Wrong3
+  - Right3
+  - WrongD
+  - RightD
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Drawing
+  - Water
+  - UI
+  - Agora
+  - Plane
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 1539638979
+    locked: 0
+  - name: Drawing
+    uniqueID: 1433328717
+    locked: 0
+  - name: Agora
+    uniqueID: 2097796359
+    locked: 0
