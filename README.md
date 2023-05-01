@@ -34,7 +34,7 @@ Hardwareseitig werden für die Umsetzung folgende Komponenten pro Station benöt
 Zunächst werden die Halterungen so aufgebaut, dass sowohl der Bildschirm als auch die Azure Kinect DK im 90°-Winkel senkrecht montiert werden können. Die Azure Kinect DK muss sich dabei ungefähr auf Augenhöhe der Nutzenden und auf horizontaler Achse der Bildschirmmitte (bevorzugt über dem Bildschirm) befinden. Die Halterung sollte so gewählt werden, dass sie im Nachgang nach Bedarf noch justiert werden kann. Anschließend können alle Komponenten wie von den jeweiligen Herstellern angegeben miteinander verbunden werden.
 
 **Software**
-1. Softwareseitig müssen für die Umsetzung folgende Komponenten pro Station neben diesem Repositorys installiert werden:
+1. Softwareseitig müssen für die Umsetzung folgende Komponenten pro Station neben diesem Repository installiert werden:
 * [Unity](https://unity.com/de) (Version 2021.3.2f1)
 * [Azure Kinect SDK](https://learn.microsoft.com/de-de/azure/kinect-dk/set-up-azure-kinect-dk)
 * [Azure Kinect Body Tracking SDK](https://learn.microsoft.com/de-de/azure/kinect-dk/body-sdk-setup)
