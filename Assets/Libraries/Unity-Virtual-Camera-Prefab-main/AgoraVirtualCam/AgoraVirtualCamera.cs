@@ -41,10 +41,14 @@ public class AgoraVirtualCamera : MonoBehaviour
     private GameObject RemoteScreenVideoRoot;
     [SerializeField]
     public GameObject RemoteUser;
+    [SerializeField]
+    public GameObject NoRemoteUser;
     /*[SerializeField]
     private int ScreenShareUID;*/
     [SerializeField]
     private Text LogText;
+
+    public ChangeModus CM;
 
     [Header("UI Btn Config")]
     public GameObject JoinBtn;
@@ -95,6 +99,9 @@ public class AgoraVirtualCamera : MonoBehaviour
     // keep track of channel state
     bool InChannel = false;
 
+    // Is there a remote user
+    bool isRemoteUserOffline = true;
+
     #region --- Life Cycles ---
     void Awake()
     {
@@ -119,6 +126,18 @@ public class AgoraVirtualCamera : MonoBehaviour
     {
         PermissionHelper.RequestMicrophontPermission();
         PermissionHelper.RequestCameraPermission();
+
+        if(isRemoteUserOffline == true)
+        {
+            NoRemoteUser.SetActive(true);
+            RemoteUser.SetActive(false);
+            CM.ResetRemoteUser();
+        }
+        else
+        {
+            NoRemoteUser.SetActive(false);
+            RemoteUser.SetActive(true);
+        }
     }
 
     void OnDisable()
@@ -330,6 +349,9 @@ public class AgoraVirtualCamera : MonoBehaviour
         // only show users with uid 100-1009 or 49024 (screen share)", 
         // uid 49024 is an arbitrary number that was selected and hardcoded as uid for the screen share stream from the web demo code. This uid can be customized
         string remoteUIDtype;
+
+        isRemoteUserOffline = false;
+        
         /*if (uid >= 1000 && uid <= 1009)
         {
             // offset the new video plane based on the parent's number of children.    
@@ -366,6 +388,7 @@ public class AgoraVirtualCamera : MonoBehaviour
 
     public void OnUserOffline(uint uid, USER_OFFLINE_REASON reason)
     {
+        isRemoteUserOffline = true;
         logger.UpdateLog("onUserOffline: update UI");
         // update the position of the remaining children
         StartCoroutine(UiUpdate(0.5f));

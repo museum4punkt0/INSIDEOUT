@@ -75,14 +75,21 @@ public class ChangeModus : MonoBehaviour
     public GameObject Mouse;
 
     public SendStreamMessageSample SSMS;
+    public TrackingToMouse TTM;
+    public DrawingScript DS;
     public KinectManager KM;
+    public LineAnimator LA1;
+    public LineAnimator LA2;
+    public LineAnimator LA3;
+    public InstructionDrawing ID;
+
+    public GameObject SK;
 
     private int[] Modus = { -1, 1, 0, -1, 2, 0, -1, 3, 0, -1, 4, 0 };
 
     int musobj;
     int rightMuseumObject = 0;
     int[] museumsObjects = { 0, 0, 0 };
-    int choosenObject = 0;
     int numberObjects;
     bool objectPlaced = false;
     bool objectSent = false;
@@ -93,9 +100,7 @@ public class ChangeModus : MonoBehaviour
     string messageIncom = "o,0";
     int modeIncome;
     int sentObjectID;
-    int compaireObjectID = -1;
     int countModus = 0;
-    int compaireMode = 0;
 
     int firstGuess = -1;
     int secondGuess = -1;
@@ -139,6 +144,7 @@ public class ChangeModus : MonoBehaviour
         {
             waitingUserTime = 0.0f;
             userDetect = true;
+            SK.SetActive(true);
         }
         else
         {
@@ -146,6 +152,7 @@ public class ChangeModus : MonoBehaviour
             if (waitingUserTime >= inactiveUserTime)
             {
                 userDetect = false;
+                SK.SetActive(false);
             }
         }
 
@@ -216,7 +223,6 @@ public class ChangeModus : MonoBehaviour
                 countModus = 0;
                 ResetStartGame();
                 ResetStartGameOtherUser();
-
             }
             //Send Invite to user on other side
             else if (modeIncome == -3 && gameStart == false || modeIncome == -2 && gameStart == false)
@@ -291,6 +297,9 @@ public class ChangeModus : MonoBehaviour
         Menu.SetActive(false);
         OpenMenu.SetActive(false);
 
+        TTM.RightHand();
+        DS.RightHandDrawing();
+
         ResetInvite();
         ResetTutorial();
     }
@@ -310,6 +319,7 @@ public class ChangeModus : MonoBehaviour
 
         DrawingScript drawingScript = Drawing.GetComponent<DrawingScript>();
         drawingScript.brush = BrushDescriber;
+
     }
 
     // Activate when user on both sides
@@ -338,6 +348,11 @@ public class ChangeModus : MonoBehaviour
         DrawingTutorialDelete.SetActive(false);
         DrawingTutorialPoints.SetActive(false);
         DrawingTutorialObject.SetActive(false);
+
+        ID.ResetPoints();
+        LA1.ResetLineAnimation();
+        LA2.ResetLineAnimation();
+        LA3.ResetLineAnimation();
     }
 
     // Our player is ready to start the game
@@ -371,6 +386,11 @@ public class ChangeModus : MonoBehaviour
 
         Menu.SetActive(false);
         OpenMenu.SetActive(false);
+    }
+
+    public void ResetRemoteUser()
+    {
+        modeIncome = -4;
     }
 
     //Game: Starting Scene

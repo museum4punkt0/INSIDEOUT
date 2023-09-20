@@ -15,7 +15,9 @@ public class InstructionDrawing : MonoBehaviour
     public GameObject PanelDrawingA;
     public GameObject PanelDrawingB;
     public ChangeModus CM;
-
+    public LineAnimator LA1;
+    public LineAnimator LA2;
+    public LineAnimator LA3;
 
     void Start()
     {
@@ -46,12 +48,32 @@ public class InstructionDrawing : MonoBehaviour
             CM.ClearDrawing();
             PanelDrawingA.SetActive(false);
             PanelDrawingB.SetActive(true);
-            pointDrawn[0] = false;
-            pointDrawn[1] = false;
-            pointDrawn[2] = false;
-            images[0].SetActive(true);
-            images[1].SetActive(true);
-            images[2].SetActive(true);
+            ResetPoints();
+            LA1.ResetLineAnimation();
+            LA2.ResetLineAnimation();
+            LA3.ResetLineAnimation();
         }
+    }
+
+    public bool CheckPoints()
+    {
+        if (pointDrawn[0] == true || pointDrawn[1] == true || pointDrawn[2] == true)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+
+    public void ResetPoints()
+    {
+        pointDrawn[0] = false;
+        pointDrawn[1] = false;
+        pointDrawn[2] = false;
+        images[0].SetActive(true);
+        images[1].SetActive(true);
+        images[2].SetActive(true);
     }
 }
