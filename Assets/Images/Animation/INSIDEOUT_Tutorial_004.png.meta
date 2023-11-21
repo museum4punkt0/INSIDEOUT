@@ -1,0 +1,1686 @@
+fileFormatVersion: 2
+guid: 5fdb2646f95c5cd408dbe6f2b6d1c925
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7199
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da06623434214cd4cbe592cb538e84d6
+      internalID: 1559914259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_1
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 7199
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6918e6a0db9a9df4bb4206ef7aaa58ab
+      internalID: -1137951125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_2
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 7199
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e63652d18bbefd4b8e5b68314134644
+      internalID: -1977798582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_3
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 7199
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad53aadd4e35c6d47b928340d799b376
+      internalID: 1854771912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_4
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 7199
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7f7db167f84bb41b2a44bc87f97ff4
+      internalID: -1406771584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_5
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 7199
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cd9a5a44e088d4fbcc3e7df40b4d8a
+      internalID: -2025471516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_6
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 7199
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e88bd79b9eedf45b497de3fdc51ac2
+      internalID: -137233558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6478
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca2dc06bc7ead947965862d6b1a69f1
+      internalID: -1333475014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_8
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 6478
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3b048382a693747ac1f2d632975f1c
+      internalID: 1547799718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_9
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 6478
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7035ac4d7fde854fa166f075588bf5c
+      internalID: -1348856540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_10
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 6478
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c9f49d155802342ab348f5eee37083
+      internalID: -89841859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_11
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 6478
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60da1e77b4fad14a9ee7d9ae2066a39
+      internalID: 2135541758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_12
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 6478
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b049e35b0a6ff6647866a4493ecd38c2
+      internalID: 872454315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_13
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 6478
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf476e1acea02224d8822b53be2036d3
+      internalID: -787791205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5757
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17587f6d14f100f448a35bf6ed153fa7
+      internalID: 1466741225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_15
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5757
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f3351591e507d499944a69156da485
+      internalID: 1824556596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_16
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5757
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b51458e224b3b4d9774b787f3c3185
+      internalID: 602292853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_17
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5757
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756b02871860c46439939feb6100a9cf
+      internalID: 1196388170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_18
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 5757
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264730fafe396b244bea6534d9b5f7ec
+      internalID: -479143871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_19
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 5757
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fcb0451ce554a43b3d1300100d54ce
+      internalID: 1154219948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_20
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5757
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a22d578ac53734bb0802a9ad425343
+      internalID: 1521344147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5036
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0398541efcfb02041bbfd796c3b7972f
+      internalID: -156261624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_22
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5036
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7c47c1b2d58bf4bb13d6abfb2f9838
+      internalID: 1010488828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_23
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5036
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce0cfe8f900f574d819b2b6853e08ba
+      internalID: 715911674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_24
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5036
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defd18257d46a9542940b66225a5a8d0
+      internalID: 330851141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_25
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 5036
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee01219020e0f940a49593f50502c11
+      internalID: -162334290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_26
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 5036
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d642e3bf76d501740b473b610645bfdb
+      internalID: -583664072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_27
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5036
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a7775d89690944e83c601929cbedba
+      internalID: -1279619801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4315
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b4a782da0ef1d4d9b205e633e52f02
+      internalID: -280289953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4315
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfac092a6c9229442a3a3d862aa0a399
+      internalID: 1189457631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_30
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4315
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463327311d1a93248b07fee32b3bf1b9
+      internalID: 422993968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_31
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4315
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8afbb7fe2b4486479d7e4ce839ecbc8
+      internalID: -83164538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_32
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 4315
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1879fd874564d4fb816fd5b3ea9a52
+      internalID: 1255719674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_33
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4315
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e82cbbace03984c8a409a804ce4878
+      internalID: 230636707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_34
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 4315
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed77be74f336804c97843674fdfa20f
+      internalID: -238236643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3594
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eefa9ac90b5a24494f274fd7689b67
+      internalID: -1791717551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_36
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3594
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d141481466ea8d4418e3318b9bdf6d92
+      internalID: 1144091293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_37
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3594
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a0987c3cf4b2c43a868485179d377a
+      internalID: 1661935925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_38
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3594
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee62e98fd27e4840aa98e1e09863025
+      internalID: 953227491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_39
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3594
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a713fea4967168f43b1670b3323ebd5c
+      internalID: 1022072828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_40
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3594
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327ba730db8739948be2ec52b7f2a6ac
+      internalID: 476473935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_41
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3594
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fac6329d8c36a44f8f5d22088a81c87
+      internalID: 612336230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2873
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd0040b02d6be746a0a53bcb312d47d
+      internalID: -1744397437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_43
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2873
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f163901a00636499bbe71c317e8f4b
+      internalID: -366191186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_44
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2873
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41bebccfafb48046851d45652eb749d
+      internalID: 2140737499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_45
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2873
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2445844e503bdf4db13d2c4ca8f2a08
+      internalID: 146610926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_46
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2873
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229da156fd1d0da4482077c5949584b9
+      internalID: 174834677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_47
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2873
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886692d237755ef4cb34108eca41830f
+      internalID: -318149487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_48
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2873
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d34af21a9266ca419ab9b6e16a3f4d9
+      internalID: 1494394597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2152
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdb7b3b08400ff4f8fac28ebf415b0f
+      internalID: 1144306589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_50
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2152
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896b2272579b5ee4ba94a42aa5d183ee
+      internalID: 1386880694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_51
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2152
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3279823234ea1ef45b8572bcc9b61d8c
+      internalID: 586643169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_52
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2152
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7206ea74f84656040aa2fa6d9ecdfee0
+      internalID: -821274665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_53
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2152
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce1225150f61b146971adbe40b825d4
+      internalID: 511996202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_54
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2152
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc7b574e051c6e4cb7b34bc4e4a515f
+      internalID: 530137753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_55
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2152
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21391bcf95d8ca1468804bfcd59bdf1b
+      internalID: -1821754821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1431
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e62727f5089c9409a1956842f04773
+      internalID: -1740564347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_57
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1431
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e26e5b958b953438c1367f63d8fe12
+      internalID: -451349260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_58
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1431
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8684f3bcddf60498f7ce74b06e872a
+      internalID: -1473808628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_59
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1431
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6388a3ca8959e6f40ae4e8fd8b777568
+      internalID: 347971031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_60
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1431
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e3c30aac5aaad4684c903d06440906
+      internalID: 40947204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_61
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1431
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e074809300ce248ab1c00d53893413
+      internalID: 2059475579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_62
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1431
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f03986be3c2a846aba9943f2ba7682
+      internalID: -1544886632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6ad7ea5e1d4744e96dfb086588056c
+      internalID: 288856006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_64
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 710
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eb2815abcabf84faf24a387a109596
+      internalID: 1544259729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_65
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 710
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be836eac5dd97140ac593de6e7e17f7
+      internalID: 1904072083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_66
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 710
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f769f1b82d182d4d917ee6ba54c0d57
+      internalID: 1113472746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_67
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 710
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a93709f041838e4b91b10b3c29006e1
+      internalID: -1909909114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_68
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 710
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a380c6b8e5a79043b3bb12ba5b393a3
+      internalID: 988188302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INSIDEOUT_Tutorial_004_69
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 710
+        width: 1280
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad10fbd2daf27b47995a309ee63e522
+      internalID: 2054531301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 26c4e9b0161fbb24c8ef754cdda326e7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      INSIDEOUT_Tutorial_004_18: -479143871
+      INSIDEOUT_Tutorial_004_31: -83164538
+      INSIDEOUT_Tutorial_004_36: 1144091293
+      INSIDEOUT_Tutorial_004_62: -1544886632
+      INSIDEOUT_Tutorial_004_0: 1559914259
+      INSIDEOUT_Tutorial_004_5: -2025471516
+      INSIDEOUT_Tutorial_004_52: -821274665
+      INSIDEOUT_Tutorial_004_33: 230636707
+      INSIDEOUT_Tutorial_004_35: -1791717551
+      INSIDEOUT_Tutorial_004_42: -1744397437
+      INSIDEOUT_Tutorial_004_56: -1740564347
+      INSIDEOUT_Tutorial_004_67: -1909909114
+      INSIDEOUT_Tutorial_004_68: 988188302
+      INSIDEOUT_Tutorial_004_23: 715911674
+      INSIDEOUT_Tutorial_004_45: 146610926
+      INSIDEOUT_Tutorial_004_13: -787791205
+      INSIDEOUT_Tutorial_004_15: 1824556596
+      INSIDEOUT_Tutorial_004_63: 288856006
+      INSIDEOUT_Tutorial_004_12: 872454315
+      INSIDEOUT_Tutorial_004_54: 530137753
+      INSIDEOUT_Tutorial_004_38: 953227491
+      INSIDEOUT_Tutorial_004_17: 1196388170
+      INSIDEOUT_Tutorial_004_20: 1521344147
+      INSIDEOUT_Tutorial_004_60: 40947204
+      INSIDEOUT_Tutorial_004_66: 1113472746
+      INSIDEOUT_Tutorial_004_1: -1137951125
+      INSIDEOUT_Tutorial_004_30: 422993968
+      INSIDEOUT_Tutorial_004_58: -1473808628
+      INSIDEOUT_Tutorial_004_2: -1977798582
+      INSIDEOUT_Tutorial_004_37: 1661935925
+      INSIDEOUT_Tutorial_004_11: 2135541758
+      INSIDEOUT_Tutorial_004_8: 1547799718
+      INSIDEOUT_Tutorial_004_55: -1821754821
+      INSIDEOUT_Tutorial_004_7: -1333475014
+      INSIDEOUT_Tutorial_004_29: 1189457631
+      INSIDEOUT_Tutorial_004_46: 174834677
+      INSIDEOUT_Tutorial_004_4: -1406771584
+      INSIDEOUT_Tutorial_004_57: -451349260
+      INSIDEOUT_Tutorial_004_19: 1154219948
+      INSIDEOUT_Tutorial_004_9: -1348856540
+      INSIDEOUT_Tutorial_004_28: -280289953
+      INSIDEOUT_Tutorial_004_6: -137233558
+      INSIDEOUT_Tutorial_004_47: -318149487
+      INSIDEOUT_Tutorial_004_39: 1022072828
+      INSIDEOUT_Tutorial_004_41: 612336230
+      INSIDEOUT_Tutorial_004_32: 1255719674
+      INSIDEOUT_Tutorial_004_25: -162334290
+      INSIDEOUT_Tutorial_004_50: 1386880694
+      INSIDEOUT_Tutorial_004_51: 586643169
+      INSIDEOUT_Tutorial_004_43: -366191186
+      INSIDEOUT_Tutorial_004_10: -89841859
+      INSIDEOUT_Tutorial_004_27: -1279619801
+      INSIDEOUT_Tutorial_004_64: 1544259729
+      INSIDEOUT_Tutorial_004_48: 1494394597
+      INSIDEOUT_Tutorial_004_61: 2059475579
+      INSIDEOUT_Tutorial_004_40: 476473935
+      INSIDEOUT_Tutorial_004_24: 330851141
+      INSIDEOUT_Tutorial_004_53: 511996202
+      INSIDEOUT_Tutorial_004_3: 1854771912
+      INSIDEOUT_Tutorial_004_65: 1904072083
+      INSIDEOUT_Tutorial_004_21: -156261624
+      INSIDEOUT_Tutorial_004_14: 1466741225
+      INSIDEOUT_Tutorial_004_44: 2140737499
+      INSIDEOUT_Tutorial_004_49: 1144306589
+      INSIDEOUT_Tutorial_004_26: -583664072
+      INSIDEOUT_Tutorial_004_22: 1010488828
+      INSIDEOUT_Tutorial_004_59: 347971031
+      INSIDEOUT_Tutorial_004_16: 602292853
+      INSIDEOUT_Tutorial_004_34: -238236643
+      INSIDEOUT_Tutorial_004_69: 2054531301
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
