@@ -57,7 +57,7 @@ Zunächst werden die Halterungen so aufgebaut, dass sowohl der Bildschirm als au
 Wichtig: Damit die Anwendung läuft, muss die gleiche App ID eingefügt worden sein. Es sollten stets nur je zwei Stationen mit der gleichen App ID (bzw. Channel-Namen) laufen.
 
 ## Benutzung
-Ein umfangreiches Tutorial ist Teil der Anwendung.
+Ein umfangreiches Tutorial ist Teil der Anwendung. Durch Auswahl des Branches kann entweder eine Version mit Text-Beschreibung (master) oder mit erklärenden Animationen (animation) heruntergeladen werden.
 
 ## Beteiligung
 Um eigene Objekte zu verwenden, können im Ordner „Assets > Resources > Museumsobjects“ PNG-Dateien von Exponaten hochgeladen werden. Hierbei ist wichtig zu beachten, dass der Dateiname der verwendeten Bilder eine Zahl ist und alle Bilder fortlaufend ab „0“ (Null) in aufsteigender Reihenfolge benannt werden müssen. Die Information zum Objekt können unter „Assets > Resources > JsonObjects“ in der JSON-Datei ergänzt werden.
